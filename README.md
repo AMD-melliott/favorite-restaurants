@@ -199,7 +199,7 @@ A "Pull Request" (PR) is how you propose your changes to be added to the origina
 1. Go to **your fork** on GitHub in your web browser
 2. You should see a yellow banner saying **"add-YOUR-NAME-restaurant had recent pushes"** with a green **Compare & pull request** button
 
-**[SCREENSHOT PLACEHOLDER: Yellow banner with "Compare & pull request" button]**
+![git-status](./screenshots/create-pull-request.png)
 
 3. Click the **Compare & pull request** button
 4. You'll see a page to create your PR:
@@ -207,7 +207,7 @@ A "Pull Request" (PR) is how you propose your changes to be added to the origina
    - **Description:** Add a brief description of what you're contributing
 5. Click the green **Create pull request** button
 
-**[SCREENSHOT PLACEHOLDER: Pull request creation page showing title and description fields]**
+![git-status](./screenshots/pull-request.png)
 
 **Congratulations!** 🎉 You've just created your first pull request!
 
