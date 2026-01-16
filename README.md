@@ -80,6 +80,7 @@ git checkout -b add-YOUR-NAME-restaurant
 ```
 
 **Example:**
+
 ```bash
 git checkout -b add-sarah-joes-pizza
 ```
@@ -107,6 +108,7 @@ Now it's time to make your contribution!
 ```
 
 **Tips:**
+
 - Keep your entries concise
 - Use your GitHub username for the Contributor field (with the @ symbol)
 - Make sure the spacing with `|` characters aligns with the rows above
