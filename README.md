@@ -48,14 +48,14 @@ A "fork" creates your own personal copy of this project on GitHub.
 
 ![github-code](./screenshots/github-code.png)
 
-2. Make sure **HTTPS** is selected (it usually is by default)
-3. Click the copy icon to copy the URL (it should look like `https://github.com/YOUR-USERNAME/favorite-restaurants.git`)
+2. Make sure **SSH** is selected (it usually is by default)
+3. Click the copy icon to copy the URL (it should look like `git@github.com:AMD-melliott/favorite-restaurants.git`)
 4. Open your terminal or command prompt
 5. Navigate to where you want to store the project (e.g., `cd Documents`)
 6. Run this command (replace the URL with the one you copied):
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/favorite-restaurants.git
+git clone git@github.com:AMD-melliott/favorite-restaurants.git
 ```
 
 7. Enter the project folder:
